@@ -9,8 +9,4 @@ class TestAnimalHttpClient : HttpClient {
         print("GET request is sent")
         return HttpResponse("Testing API Response")
     }
-
-    override suspend fun post() {
-        print("POST request is sent")
-    }
 }
