@@ -85,3 +85,10 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+
+# Covers Android Development
+# Reference: https://github.com/github/gitignore/blob/eea28935df555ba6cdc373bec7d5212272d49bfa/Android.gitignore
+
+# Local configuration file (sdk path, etc)
+local.properties
